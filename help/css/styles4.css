@@ -1,0 +1,27 @@
+#main {
+    display: flex;
+    justify-content: center;
+}
+
+#main>div {
+    width: 80%;
+}
+
+#main h2 {
+    font-family: arial;
+    text-align: center;
+    color: #1F568B;
+    font-size: 30px;
+}
+
+#main img {
+    width: 80%;
+    text-align: center;
+}
+
+#main p {
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    padding-top: 20px; 
+}
